@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.reeeee.imamazing"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Rocket League Crate Simulator</name>
+
+  <description>
+      The Best Game Ever
+  </description>
+
+  <author href="https://sites.google.com/d/1SAP8XeDTrnpVvG9EJNdjBnFRldMrTtmG/p/1Ub6nnuTgKPXW9HFiCvCREjpoOYaaXefd/edit" email="rltradetips@gmail.com">
+      B3n921
+  </author>
+
+<icon src="icon.png" />
+</widget>
