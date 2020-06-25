@@ -7,7 +7,9 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name>Rocket League Crate Simulator</name>
+    <preference name="android-targetSdkVersion" value="28" />
+  
+    <name>Rocket League Crate Simulator</name>
 
   <description>
       The Best Game Ever
